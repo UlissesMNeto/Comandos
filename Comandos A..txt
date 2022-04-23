@@ -1,0 +1,97 @@
+Comandos A.
+set time
+logoff
+TTI - terminal translation initialization
+x-ported extension
+change station nnnn - old
+record the current port address
+'x' the port address
+change station nnnn - new
+record the current port address
+enter the old port address
+display time
+display system-parameters maintenance
+display feature-access codes
+display system-parameters customer-options
+display dialplan
+display converage sender group n
+display ars analysis n
+display dialplan
+display circuit pack
+display node-names ip
+display error
+display event
+display integrated-annc-boards
+display capacity
+display cos
+change system-parameters features
+change dialplan
+attd - attendant
+dac - dial access codes
+ext - extensions
+fac - feature access codes
+misc - miscellaneous code
+change feature-access-codes
+change station nnnn
+change alias station
+change pickup group n
+change hunt group n
+change coverage remote
+change telecommuting-access
+change ars analysis nnnn
+change authorization-code nnnnnnn
+change partition-route-table index 1
+change permissions username
+change password username
+change login username
+change system-parameters security
+change node-names ip
+change console-parameters
+change announcement
+save translation - SAVE AFTER CHANGES
+save announcements - TN750 / TN750B
+list configuration station
+list configuration all
+list configuration station print
+list configuration station schedule immediate
+list groups-of-extension nnnn
+list usage extension nnnn
+list call-forwarding
+list bridge
+list ars analysis
+list ars route-chosen nnnnnnnnnn
+list measurements security-violations detail
+list measurements security-violations summary
+list measurements trunk-group summary last-hour
+list extension-type
+list data
+list type group
+list station
+list extension
+list coverage path
+list vector
+list usage vector
+list usage digit string
+list VDN
+list cabinet
+list trunk group
+list cor
+add station nnnn
+add station next
+add abbreviated-dialing group next
+add pickup-group next
+add coverage path next
+add coverage time-of-day next
+change station nnnn
+change coverage path 1 to t plus time of day table
+add coverage answer-group next
+add login username
+add trunk-group next
+duplicate station nnnn
+status station nnnn
+status card-mem
+busyout station nnnn
+release station nnnn
+remove station nnnn
+clear measurements security-violations
+clear amw all nnnn
