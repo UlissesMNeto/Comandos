@@ -34,7 +34,8 @@ Show Commands
 • show fc srp lu  
 • show fc srp statistics  
 • show fc srp target  
-• show fc srpglobal  
+• show fc srpglobal
+• show history  
 • show host  
 • show ib dm ioc  
 • show ib dm iou  
