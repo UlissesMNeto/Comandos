@@ -1,0 +1,84 @@
+Show Commands
+• show arp ethernet  
+• show authentication  
+• show backplane  
+• show bootconfig  
+• show bridgeforwarding  
+• show bridgegroup  
+• show bridgesubnets  
+• show card  
+• show cardinventory  
+• show cdp  
+• show cdp entry  
+• show cdp neighbors  
+• show clock  
+• show clock  
+• show config  
+• show diagnostic  
+• show diagnostic card  
+• show diagnostic chassis  
+• show diagnostic fan  
+• show diagnostic fruerror  
+• show diagnostic interface ethernet  
+• show diagnostic interface fc  
+• show diagnostic interface ib  
+• show diagnostic post  
+• show diagnostic powersupply  
+• show diagnostic racklocator  
+• show fan  
+• show fc srp initiator  
+• show fc srp initiatorwwpnview  
+• show fc srp it  
+• show fc srp itl  
+• show fc srp itlstatistics  
+• show fc srp lu  
+• show fc srp statistics  
+• show fc srp target  
+• show fc srpglobal  
+• show host  
+• show ib dm ioc  
+• show ib dm iou  
+• show ib pm config  
+• show ib pm connection counter  
+• show ib pm connection monitor  
+• show ib pm port counter  
+• show ib pm port monitor  
+• show ib pm threshold  
+• show ib sm configuration  
+• show ib sm dbsync  
+• show ib sm multicast  
+• show ib sm neighbor  
+• show ib sm node  
+• show ib sm partition  
+• show ib sm port  
+• show ib sm service  
+• show ib sm switch  
+• show ib sm switchelemroute  
+• show ib sm switchroute  
+• show ibagent channeladapter  
+• show ibagent summary  
+• show ibagent switch  
+• show interface ethernet  
+• show interface fc  
+• show interface gateway  
+• show interface ib  
+• show interface mgmtethernet  
+• show interface mgmtib  
+• show interface mgmtserial  
+• show ip  
+• show ip http  
+• show location  
+• show logging  
+• show ntp  
+• show powersupply  
+• show redundancygroup  
+• show runningstatus  
+• show sensor  
+• show snmp  
+• show systemmode  
+• show systemservices  
+• show terminal  
+• show trace  
+• show trunk  
+• show user  
+• show version  
