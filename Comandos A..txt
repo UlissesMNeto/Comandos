@@ -1,4 +1,4 @@
-Comandos A.
+Comandos Avaya
 set time
 logoff
 TTI - terminal translation initialization
